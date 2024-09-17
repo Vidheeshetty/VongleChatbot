@@ -78,8 +78,8 @@ def user_input(user_question):
 
 
 def main():
-    st.set_page_config("Chat PDF")
-    st.header("Chat with PDF using Gemini💁")
+    st.set_page_config("Pdf Vongle Helper")
+    st.header("Vongles Chatbot💁")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 

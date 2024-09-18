@@ -81,7 +81,7 @@ def main():
     st.set_page_config("Pdf Vongle Helper")
     st.header("Vongles Chatbot💁")
 
-    user_question = st.text_input("Ask a Question from the PDF Files")
+    user_question = st.text_input("DW, Vidhee will refine this")
 
     if user_question:
         user_input(user_question)

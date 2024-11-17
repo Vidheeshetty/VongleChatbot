@@ -79,7 +79,7 @@ def user_input(user_question):
 
 def main():
     st.set_page_config("Pdf Vongle Helper")
-    st.header("BUYWISE CHATBOT💁")
+    st.header("FarmEasy Chatbot💁")
 
     user_question = st.text_input("DW, Vidhee will refine this")
 
